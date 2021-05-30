@@ -1,7 +1,7 @@
-# Horisen Code Refactor
+# Horiseon Code Refactor
 
 ## Purpose
-A refactor of Horisen website source code. 
+A refactor of Horiseon website source code. 
 
 ## Built With
 * HTML
